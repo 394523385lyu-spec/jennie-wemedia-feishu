@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+*.tmp
+短视频多维表格配置.json
+*.env
+.env
+node_modules/
+__pycache__/
