@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jennie- wemedia-feishu"
+  short_description: "Analyze social links into Feishu Bitable topic libraries."
+  default_prompt: "Use $jennie-wemedia-feishu to analyze this Douyin or Xiaohongshu link and add it to the Feishu topic library."
